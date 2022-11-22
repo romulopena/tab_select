@@ -17,10 +17,29 @@ td{
     border: 2px dashed;
     border-color: aquamarine;
 }
-
+.opcoes{
+    background: gray;
+    color:brown;
+    border: 2px dashed;
+    border-color: aquamarine;    
+}
 .servia{
     background: gray;
     color:brown;
     border: 2px dashed;
     border-color: aquamarine;    
 }
+.suica{
+    background: gray;
+    color:brown;
+    border: 2px dashed;
+    border-color: aquamarine;    
+}
+.camaroes{
+    background: gray;
+    color:brown;
+    border: 2px dashed;
+    border-color: aquamarine;    
+}
+
+
