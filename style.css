@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    font-weight: bold;
+}
+thead{
+    background: black;
+    color: whitesmoke;
+    border: 2px solid;
+    border-color: yellow;
+}
+td{
+    background: gray;
+    color:brown;
+    border: 2px dashed;
+    border-color: aquamarine;
+}
